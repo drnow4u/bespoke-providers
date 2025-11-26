@@ -1,1 +1,1 @@
-PSD2 - Former Professional Project
+# Bank PSD2 Connectors - Former Professional Project
